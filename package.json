@@ -1,0 +1,22 @@
+{
+  "name": "form-auto-complete-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript code to copy values of text fields to other text fields using a check box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armin-es/form-auto-complete-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armin-es/form-auto-complete-javascript/issues"
+  },
+  "homepage": "https://github.com/armin-es/form-auto-complete-javascript#readme",
+  "devDependencies": {
+    "jsdoc": "^3.4.2"
+  }
+}
