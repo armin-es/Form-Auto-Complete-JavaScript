@@ -8,7 +8,7 @@ JSDOC is used for the first time to generate documentation for the JS functions.
 
 ## How to make it work on your machine
 - Clone it
-- Start using it, by cliclong on the `index.html` file
+- Start using it, by clicking on the `index.html` file
 - Documentation for JS is generated inside the out folder.
 
 
