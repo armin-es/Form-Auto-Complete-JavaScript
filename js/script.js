@@ -1,10 +1,9 @@
+/**
+* @description If checkmark is marked, then put the shiping address as same as billing infomation
+* @author Armin, and Ali
+* @version 1.0
+*/
 function billingFunction(){
-    /**
-    * @description If checkmark is marked, then put the shiping address as same as billing infomation
-    * @param {number} N/A
-    * @param {number} N/A
-    * @returns {number} N/A
-    */
 
     if( document.getElementById( 'same' ).checked ) {
         var shipName = document.getElementById( 'shippingName' ).value;

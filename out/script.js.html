@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>JSDoc: Home</title>
+    <title>JSDoc: Source: script.js</title>
 
     <script src="scripts/prettify/prettify.js"> </script>
     <script src="scripts/prettify/lang-css.js"> </script>
@@ -17,32 +17,36 @@
 
 <div id="main">
 
-    <h1 class="page-title">Home</h1>
+    <h1 class="page-title">Source: script.js</h1>
 
     
 
 
 
     
+    <section>
+        <article>
+            <pre class="prettyprint source linenums"><code>/**
+* @description If checkmark is marked, then put the shiping address as same as billing infomation
+* @author Armin, and Ali
+* @version 1.0
+*/
+function billingFunction(){
 
+    if( document.getElementById( 'same' ).checked ) {
+        var shipName = document.getElementById( 'shippingName' ).value;
+        document.getElementById( 'billingName' ).value = shipName;
 
-    <h3> </h3>
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
+        var shipZip = document.getElementById( 'shippingZip' ).value;
+        document.getElementById( 'billingZip' ).value = shipZip;
+    }
+    else {
+        document.getElementById( 'billingName' ).value = "";
+        document.getElementById( 'billingZip' ).value = "";
+    }
+}</code></pre>
+        </article>
+    </section>
 
 
 
