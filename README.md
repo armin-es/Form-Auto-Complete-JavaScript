@@ -2,6 +2,8 @@
 Vanilla JavaScript codes to copy values of text fields to other text fields using a check box.
 JSDOC is used for the first time to generate documentation for the JS functions.
 
+This project is based on the second peer reviewed assignment of the [Interactivity with JavaScript](https://www.coursera.org/learn/javascript) course given by the University of Michigan at Coursera.
+
 ## APIs and libraries
 - HTML5, CSS, JS
 - JSDOC
@@ -10,6 +12,9 @@ JSDOC is used for the first time to generate documentation for the JS functions.
 - Clone it
 - Start using it, by clicking on the `index.html` file
 - Documentation for JS is generated inside the out folder.
+
+##Demo
+![Demo gif](https://github.com/armin-es/form-auto-complete-javascript/blob/16_Add_Demo_Video/demo/demo.gif)
 
 
 
