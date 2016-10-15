@@ -13,5 +13,8 @@ This project is based on the second peer reviewed assignment of the [Interactivi
 - Start using it, by clicking on the `index.html` file
 - Documentation for JS is generated inside the out folder.
 
+##Demo
+![Demo gif](https://github.com/armin-es/form-auto-complete-javascript/blob/16_Add_Demo_Video/demo/demo.gif)
+
 
 
